@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BaitapTH1
 {
-    internal class Program
+    internal class Bai1
     {
         static void Main(string[] args)
         {
