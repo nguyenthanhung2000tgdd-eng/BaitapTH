@@ -1,0 +1,9 @@
+C:\Users\nguye\source\repos\BaitapTH10\BaitapTH10\bin\Debug\BaitapTH10.exe.config
+C:\Users\nguye\source\repos\BaitapTH10\BaitapTH10\bin\Debug\BaitapTH10.exe
+C:\Users\nguye\source\repos\BaitapTH10\BaitapTH10\bin\Debug\BaitapTH10.pdb
+C:\Users\nguye\source\repos\BaitapTH10\BaitapTH10\obj\Debug\BaitapTH10.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\BaitapTH10\BaitapTH10\obj\Debug\BaitapTH10.Properties.Resources.resources
+C:\Users\nguye\source\repos\BaitapTH10\BaitapTH10\obj\Debug\BaitapTH10.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\BaitapTH10\BaitapTH10\obj\Debug\BaitapTH10.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\BaitapTH10\BaitapTH10\obj\Debug\BaitapTH10.exe
+C:\Users\nguye\source\repos\BaitapTH10\BaitapTH10\obj\Debug\BaitapTH10.pdb
