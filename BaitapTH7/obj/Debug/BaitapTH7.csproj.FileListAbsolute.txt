@@ -1,0 +1,9 @@
+C:\Users\nguye\source\repos\BaitapTH7\BaitapTH7\bin\Debug\BaitapTH7.exe.config
+C:\Users\nguye\source\repos\BaitapTH7\BaitapTH7\bin\Debug\BaitapTH7.exe
+C:\Users\nguye\source\repos\BaitapTH7\BaitapTH7\bin\Debug\BaitapTH7.pdb
+C:\Users\nguye\source\repos\BaitapTH7\BaitapTH7\obj\Debug\BaitapTH7.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\BaitapTH7\BaitapTH7\obj\Debug\BaitapTH7.Properties.Resources.resources
+C:\Users\nguye\source\repos\BaitapTH7\BaitapTH7\obj\Debug\BaitapTH7.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\BaitapTH7\BaitapTH7\obj\Debug\BaitapTH7.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\BaitapTH7\BaitapTH7\obj\Debug\BaitapTH7.exe
+C:\Users\nguye\source\repos\BaitapTH7\BaitapTH7\obj\Debug\BaitapTH7.pdb
