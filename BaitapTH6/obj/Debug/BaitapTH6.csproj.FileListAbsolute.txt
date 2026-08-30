@@ -1,0 +1,9 @@
+C:\Users\nguye\source\repos\BaitapTH6\BaitapTH6\obj\Debug\BaitapTH6.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\BaitapTH6\BaitapTH6\obj\Debug\BaitapTH6.Properties.Resources.resources
+C:\Users\nguye\source\repos\BaitapTH6\BaitapTH6\obj\Debug\BaitapTH6.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\BaitapTH6\BaitapTH6\obj\Debug\BaitapTH6.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\BaitapTH6\BaitapTH6\bin\Debug\BaitapTH6.exe.config
+C:\Users\nguye\source\repos\BaitapTH6\BaitapTH6\bin\Debug\BaitapTH6.exe
+C:\Users\nguye\source\repos\BaitapTH6\BaitapTH6\bin\Debug\BaitapTH6.pdb
+C:\Users\nguye\source\repos\BaitapTH6\BaitapTH6\obj\Debug\BaitapTH6.exe
+C:\Users\nguye\source\repos\BaitapTH6\BaitapTH6\obj\Debug\BaitapTH6.pdb
